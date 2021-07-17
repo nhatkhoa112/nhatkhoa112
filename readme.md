@@ -30,7 +30,7 @@
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/nhatkhoa112/nhatkhoa112/resumes/Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/nhatkhoa112/nhatkhoa112/blob/master/resumes/Resume.pdf)
 - :email: nhatkhoait2@gmail.com
 
 
