@@ -37,12 +37,3 @@
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nhatkhoa112.nhatkhoa112)
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
