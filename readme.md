@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript** and **Reactjs** frameworks
 
-- 👨‍💻 All of my projects are available at [https://nhatkhoait2-portfolio.netlify.app/](https://nhatkhoait2-portfolio.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://nhatkhoait2-portfolio.netlify.app/](https://nhatkhoait2-portfolio.netlify.app/)
 
 - 📫 How to reach me **nhatkhoait2@gmail.com**
 
