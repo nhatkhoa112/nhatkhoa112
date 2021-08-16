@@ -30,7 +30,7 @@
 
 
 #### Bizness
-- :paperclip: [My Resume/CV]([CV-Frontend-Khoa-Nguyen-Nhat.pdf](https://github.com/nhatkhoa112/nhatkhoa112/files/6989587/CV-Frontend-Khoa-Nguyen-Nhat.pdf)
+- :paperclip: [My Resume/CV](https://github.com/nhatkhoa112/nhatkhoa112/files/6989587/CV-Frontend-Khoa-Nguyen-Nhat.pdf)
 )
 - :email: nhatkhoait2@gmail.com
 
